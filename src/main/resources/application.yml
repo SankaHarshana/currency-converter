@@ -5,4 +5,4 @@ server:
 spring:
   fixer:
     baseURL: http://data.fixer.io/api/latest
-    apiKey: 0e5891da8641b958b416d704c416d662
+    apiKey: b08103793b70e9d70684b581c1fd31ea
